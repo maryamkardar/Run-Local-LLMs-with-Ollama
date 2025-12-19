@@ -1,3 +1,3 @@
 # Run-Local-LLMs-with-Ollama
 free usage of AI
-connecting without Internet
+connecting AI without Internet
